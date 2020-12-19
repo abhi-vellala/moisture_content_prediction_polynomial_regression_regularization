@@ -15,10 +15,10 @@ determined by analytic chemistry.
 1. Import data to R and create a plot of Moisture versus Protein. Do you think
 that these data are described well by a linear model?
 
-2. Consider model 𝑀𝑀𝑖𝑖 in which Moisture is normally distributed, and the
+2. Consider model 𝑀𝑖 in which Moisture is normally distributed, and the
 expected Moisture is a polynomial function of Protein including the
-polynomial terms up to power 𝑖𝑖 (i.e M1 is a linear model, M2 is a quadratic
-model and so on). Report a probabilistic model that describes 𝑀𝑀𝑖𝑖. Why is it
+polynomial terms up to power 𝑖 (i.e M1 is a linear model, M2 is a quadratic
+model and so on). Report a probabilistic model that describes 𝑀𝑖. Why is it
 appropriate to use MSE criterion when fitting this model to a training data?
 
 3. Divide the data into training and validation sets( 50%/50%) and fit models
